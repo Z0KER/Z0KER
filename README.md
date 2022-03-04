@@ -1,3 +1,5 @@
+markdown: kramdown
+
 ## Olá, me chamo Flávio ! 
 ### Bem vindo ao meu perfil GitHub 👋
 

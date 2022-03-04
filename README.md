@@ -8,5 +8,4 @@
 ### Contatos:
 
 <a href = "mailto:flaviogabriel2603@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-[go](http://stackoverflow.com){:target="_blank"}
+[<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">](http://stackoverflow.com){:target="_blank"}

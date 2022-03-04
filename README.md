@@ -7,6 +7,5 @@
 
 ### Contatos:
 
-<a href = "mailto:flaviogabriel2603@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-markdown: kramdown
-[<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">](http://stackoverflow.com){:target="_blank"}
+<a href="mailto:flaviogabriel2603@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/flávio-gabriel-loretti-viana-8274061a2/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>

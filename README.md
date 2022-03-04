@@ -3,6 +3,8 @@
 
 Possuo conhecimentos em desenvolvimento web front-end e back-end, gosto de trabalhar em equipe e continuo querendo aprender cada vez mais, não só em desenvolvimento web, mas também em outras áreas englobadas pela Engenharia de Software, e dessa forma, adquirir cada vez mais experiência.
 
+Estou pronto para contribuir em um ambiente de trabalho onde possa colocar em pratica meus conhecimentos em favor da empresa na qual viso integrar, focando sempre o beneficio e o crescimento da organização, e o crescimento profissional.
+
 ### Ferramentas e Tecnologias:
 
 <div>

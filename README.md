@@ -1,4 +1,4 @@
-## Olá, me chamo Flávio ! 
+## Olá, me chamo Flávio! 
 ### Bem vindo ao meu perfil GitHub 👋
 
 Possuo conhecimentos em desenvolvimento web front-end e back-end, gosto de trabalhar em equipe e continuo querendo aprender cada vez mais, não só em desenvolvimento web, mas também em outras áreas englobadas pela Engenharia de Software, e dessa forma, adquirir cada vez mais experiência.

@@ -24,3 +24,9 @@ Possuo conhecimentos em desenvolvimento web front-end e back-end, gosto de traba
 </div>
 
 Estou pronto para contribuir em um ambiente de trabalho onde possa colocar em pratica meus conhecimentos em favor da empresa na qual viso integrar, focando sempre o beneficio e o crescimento da organização, e o crescimento profissional.
+
+<div>
+<a href="https://github.com/seu-usuário-aqui">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>

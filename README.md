@@ -3,8 +3,6 @@
 
 Possuo conhecimentos em desenvolvimento web front-end e back-end, gosto de trabalhar em equipe e continuo querendo aprender cada vez mais, não só em desenvolvimento web, mas também em outras áreas englobadas pela Engenharia de Software, e dessa forma, adquirir cada vez mais experiência.
 
-Estou pronto para contribuir em um ambiente de trabalho onde possa colocar em pratica meus conhecimentos em favor da empresa na qual viso integrar, focando sempre o beneficio e o crescimento da organização, e o crescimento profissional.
-
 ### Ferramentas e Tecnologias:
 
 <div>
@@ -24,3 +22,5 @@ Estou pronto para contribuir em um ambiente de trabalho onde possa colocar em pr
   <a href="mailto:flaviogabriel2603@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="80"></a>
   <a href="https://www.linkedin.com/in/flávio-gabriel-loretti-viana-8274061a2/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the badge&logo=linkedin&logoColor=white" width="100"></a>
 </div>
+
+Estou pronto para contribuir em um ambiente de trabalho onde possa colocar em pratica meus conhecimentos em favor da empresa na qual viso integrar, focando sempre o beneficio e o crescimento da organização, e o crescimento profissional.

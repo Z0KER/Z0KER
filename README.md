@@ -24,4 +24,4 @@ Possuo conhecimentos em desenvolvimento web front-end e back-end, gosto de traba
   <a href="https://www.linkedin.com/in/flávio-gabriel-loretti-viana-8274061a2/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the badge&logo=linkedin&logoColor=white" width="100"></a>
 </div>
 
-![Snake animation](https://github.com/seu-usuário-aqui/Z0KER/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Z0KER/Z0KER/blob/output/github-contribution-grid-snake.svg)

@@ -25,5 +25,4 @@ Possuo conhecimentos em desenvolvimento web front-end e back-end, gosto de traba
 </div>
 
 ### Contribuições:
-
 ![Snake animation](https://github.com/Z0KER/Z0KER/blob/output/github-contribution-grid-snake.svg)

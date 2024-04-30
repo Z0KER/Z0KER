@@ -1,7 +1,7 @@
 ## Olá, me chamo Flávio! 
 ### Bem vindo ao meu perfil GitHub 👋
 
-Possuo conhecimentos em desenvolvimento web front-end e back-end, gosto de trabalhar em equipe e continuo querendo aprender cada vez mais, não só em desenvolvimento web, mas também em outras áreas englobadas pela Engenharia de Software, e dessa forma, adquirir cada vez mais experiência.
+Sou um desenvolvedor full stack que está se especializando em inteligência artificial (IA) e sistemas escaláveis. Meu trabalho envolve a criação e manutenção de websites e sistemas, com foco em automação de tarefas e otimização de desempenho em diversas plataformas. Estou em constante aprendizado e buscando aprimorar minhas habilidades em gerenciamento de banco de dados e armazenamento em nuvem, sempre priorizando desempenho e segurança. Estou animado para continuar minha jornada de especialização e explorar novas oportunidades no campo da tecnologia.
 
 ### Ferramentas e Tecnologias:
 

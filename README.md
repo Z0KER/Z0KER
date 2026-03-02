@@ -1,3 +1,7 @@
+## Olá, me chamo Flávio!
+
+### Bem vindo ao meu perfil GitHub 👋
+
 Como Desenvolvedor Full Stack, sou movido por desafios e apaixonado por criar soluções que aliam desempenho, escalabilidade e usabilidade. Minhas principais qualidades são: trabalho em equipe, dedicação, foco e determinação. Prezo por códigos limpos, organizados e sustentáveis, sempre priorizando segurança, acessibilidade e experiência do usuário.
 
 Tenho experiência em migração e modernização de sistemas, com foco em otimização de desempenho, integração de tecnologias e uso estratégico de bancos de dados. Recentemente, atuei em projetos que envolveram:
